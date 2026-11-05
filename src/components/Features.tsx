@@ -64,7 +64,7 @@ export default function Features() {
     <section className="mx-auto w-full max-w-7xl px-4 py-16 sm:px-6 lg:py-24">
       <div className="mx-auto max-w-2xl text-center">
         <span className="inline-flex items-center gap-1.5 rounded-full bg-teal-50 px-3 py-1 text-xs font-semibold text-teal-700 ring-1 ring-teal-200">
-          
+          Why Seba
         </span>
         <h2 className="mt-4 text-3xl font-extrabold tracking-tight text-foreground sm:text-4xl">
           Everything a community drive needs

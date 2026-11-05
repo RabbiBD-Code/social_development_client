@@ -71,7 +71,7 @@ export default function Features() {
         </h2>
         <p className="mt-3 text-sm/relaxed text-muted-foreground">
           From finding the cause to gathering the team — Seba keeps the whole
-           journey in one simple platform.
+          social development journey in one simple platform.
         </p>
       </div>
 
